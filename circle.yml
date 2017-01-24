@@ -4,7 +4,7 @@
 
 general:
     artifacts:
-        - /home/ubuntu/HelloCircleCI/app/build/outputs/apk/
+        - app/build/outputs/apk/app-release-unsigned.apk
 
 machine:
     environment:
